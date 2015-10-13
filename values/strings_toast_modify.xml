@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MODIFY_CODE_001">克隆失败,导致修改备注请求被取消</string>
+    <string name="MODIFY_CODE_002">发现联系人为本地联系人：修改本地联系人备注成功!</string>
+    <string name="MODIFY_CODE_003">ContactPersonController实例对象为空，导致修改备注请求被取消</string>
+
+</resources>

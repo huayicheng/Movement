@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sc_age">年龄: </string>
+    <string name="sc_age_unit">岁</string>
+    <string name="sc_gender">性别：</string>
+</resources>

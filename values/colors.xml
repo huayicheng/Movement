@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="home_item_nor">#FFFFFF</color>
+    <color name="home_item_press">#EBEBEB</color>
+    <color name="home_item_selector">#fff0f0f0</color>
+    <color name="bg_five_alpha_dark">#50000000</color>
+    <color name="font_five_alpa_dark">#50000000</color>
+    <color name="four_alpha_black">#40000000</color>
+    <color name="tab_medium">#2B2B2B</color>
+    <color name="tab_dark">#000000</color>
+    <color name="tab_transparent">#10FFFFFF</color>
+    <color name="press_color">#50ffffff</color>
+    <color name="link_color">#2AB5B6</color>
+    <color name="divider_dark">#DDDDDD</color>
+    <color name="divider_top">#BFC7C7</color>
+    <color name="divider_mid">#000000</color>
+    <color name="divider_bottom">#BFC7C7</color>
+    <color name="shadow_dark">#50000000</color>
+    <color name="device_dark">#af000000</color>
+    <color name="font_input_dark">#4F6868</color>
+    <color name="font_hint_dark">#DDDDDD</color>
+    <color name="font_abnormal_red">#F97956</color>
+    <color name="font_text_gray">#50FFFFFF</color>
+    <color name="font_text_explain">#959999</color>
+    <color name="font_bp_measure_explain">#9C9C9C</color>
+    <color name="font_bp_measure_value">#393939</color>
+    <color name="font_measure_title_lightgray">#bababa</color>
+    <color name="font_measure_title_lightblue">#38D2D4</color>
+    <color name="font_history_high_priority_value">#525F79</color>
+    <color name="font_history_low_priority_value">#516C9B</color>
+    <color name="font_et_guide_language">#088385</color>
+    <color name="font_measuretype_atrovirens">#7A9EA2</color>
+    <color name="font_record_share">#7E848E</color>
+    <color name="font_recent_history_enter">#FE872A</color>
+    <color name="bg_dark">#DDDDDD</color>
+    <color name="bg_lightgrey">#EBF0F0</color>
+    <color name="history_list_bg_lightgrey">#F7F7F7</color>
+    <color name="bg_lightgrey_press">#80EBF0F0</color>
+    <color name="font_address_top_color">#2AB5B6</color>
+    <color name="bg_item_readme">#F7F8F9</color>
+    <color name="selector_btn_pressed_lightdark">#50FFFFFF</color>
+    <color name="selector_btn_pressed_lightdark_pink">#FF83FA</color>
+    <color name="selector_chat_normal">#45D025</color>
+    <color name="selector_chat_pressed">#9045D025</color>
+    <color name="selector_chat_set">#A7A7A7</color>
+    <color name="chart_ox_trend_nomal">#19B2EB</color>
+    <color name="chart_heart_trend_nomal">#42B39F</color>
+    <color name="chart_sbp_trend_normal">#2ECEE6</color>
+    <color name="point_bp_history_abnormal">#F37733</color>
+    <color name="group_member_search">#D3DCDC</color>
+    <color name="group_group_resource_bg">#FAFAFA</color>
+    <color name="group_net_error_bg">#FEFCD5</color>
+    <color name="setting_value_color">#ADADAD</color>
+    <color name="service_clock_grey_color">#C0C0C0</color>
+    <color name="font_hint_color">#b6b6b6</color>
+    <color name="qa_press">#38D2D4</color>
+    <color name="qa_normal">#FAFAFA</color>
+    <!-- 对牢标注给定的颜色 -->
+
+    <color name="home_unit_cn_color">#9DA1A8</color>
+    <color name="home_unit_en_color">#ACACAC</color>
+    <color name="home_measuredata_color">#676767</color>
+    <color name="home_measuretime_color">#B0B0B0</color>
+    <color name="linaerlayout_press">#ffffff</color>
+    <color name="finish_press">#dedfdf</color>
+    <color name="finish_normal">#ffffff</color>
+    <color name="select_list_monthly_textcorlor">#80ffffff</color>
+    <color name="gray">#999999</color>
+
+    <!-- 饼状图实例颜色 -->
+    <color name="low">#7d98e5</color>
+    <color name="ideal">#78c9ff</color>
+    <color name="nomal">#83e3b3</color>
+    <color name="nomal_high">#bee383</color>
+    <color name="mild">#ffd768</color>
+    <color name="moderate">#feb268</color>
+    <color name="serious">#f37b58</color>
+    <!-- 饼图统计次数正常异常的颜色 -->
+    <color name="normal_color">#313131</color>
+    <color name="abnormal_color">#f47700</color>
+    <color name="sapphire">#38d2d4</color>
+    <color name="light_blue">#e9f7f8</color>
+    <!-- 胎心进度条播放时进度的颜色-->
+    <color name="fh_seekbar_fill">#8acded</color>
+    
+    <color name="activity_view_friend_detail_dialog_text_color_1">#5a5858</color>
+    <color name="activity_view_friend_detail_dialog_text_color_2">#a4a4a4</color>
+    
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_black">#000000</color>
+    <color name="baby_change_title_color">#FF1493</color>
+    <color name="red">#FF0000</color>
+
+    <!-- 测量补录界面begins -->
+    <color name="measure_surface_green_normal">#35c6cb</color>
+    <color name="measure_surface_green_pressed">#20a6ab</color>
+    <!-- 测量补录界面ends -->
+
+    <!-- 个人设置妊娠界面begins -->
+    <color name="setting_pregnancy_text_gray">#878787</color>
+    <color name="setting_pregnancy_bg_gray">#F3F3F3</color>
+    <!-- 个人设置妊娠界面ends -->
+
+    <color name="is_device">#a5a5a5</color>
+
+</resources>

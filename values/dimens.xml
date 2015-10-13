@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_view_friend_detail_dialog_margin_left">34px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_margin_right">34px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_margin_top">36px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_margin_bottom">36px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_checkbox_margin__right">34px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_text_size">32px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_button_length">280px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_button_height">72px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_edittext_width">584px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_main_ll_width">652px</dimen>
+    <dimen name="activity_view_friend_detail_dialog_main_ll_height">500px</dimen>
+
+</resources>

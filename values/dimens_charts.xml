@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 统计 -->
+    <dimen name="chart_size1">18sp</dimen>
+    <dimen name="chart_size2">16sp</dimen>
+    <dimen name="chart_size3">21sp</dimen>
+    <dimen name="chart_size4">12sp</dimen>
+    <dimen name="chart_size5">21sp</dimen>
+    <dimen name="chart_size6">33sp</dimen>
+    <dimen name="chart_size7">18sp</dimen>
+
+</resources>

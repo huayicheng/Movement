@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="insert_your_glu">Please  insert your finger into the oximeter</string>
+    <string name="equipment_abnormal_restart">Abnormal device，please remeasure</string>
+    <string name="not_find_device">No devices found</string>
+    <string name="find_other_device">Discover other devices </string>
+    <string name="other_device_connected">Other devices connected，Whether to disconnect and reconnect?</string>
+    <string name="other_device_measuring">Other equipmentis measuring，Whether to disconnect and reconnect?</string>
+    <string name="bluetooth_connection_failure">Connection failed</string>
+    <string name="bluetooth_connection_mistakes">Connection failed，please check whether the device is opened</string>
+    <string name="bluetooth_connection_error">Connection break</string>
+    <string name="bluetooth_disconnect">Connection break, please check whether the device is working properly, not too far away from the equipment</string>
+    <string name="bluetooth_no_fond_device">No devices found，please check whether the device is opened</string>
+    <string name="device_not_support">The device is not supported</string>
+    <string name="device_not_support_details">Sorry, your mobile phone may not support the device</string>
+    <string name="use_device_select">Device selection</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="action_exitmeasure">Exit measurement</string>
+    <string name="end_measurement">Finish measurement</string>
+    <string name="history_list_delete_title">Delete reminder</string>
+    <string name="history_list_delete_content">Whether to delete the message? </string>
+    <string name="measure_abnormal">Abnormal measurement</string>
+    <string name="continue_measure">Continue measuring</string>
+    <string name="measure_time_out_title">Overtime measurement</string>
+    <string name="measure_time_out">Overtime measurement, please restart the device to continue measuring</string>
+    <string name="alert_restart">Remeasure</string>
+    <string name="equipment_abnormal">Abnormal device</string>
+    <string name="low_battery">Low battery</string>
+    <string name="ear_abnormal_measurements">Abnormal measurement results, please measure with the correct posture </string>
+    <string name="ear_ambient_temperature_anomalies">Abnormal temperature, please measure at 10℃~40℃</string>
+    <string name="ear_low_battery">Low battery, please replace battery</string>
+    <string name="ear_equipment_malfunction">Abnormal device, please restart the ear thermometer and try again</string>
+    <string name="fhr_title">Prompt</string>
+    <string name="fhr_set">Setting</string>
+    <string name="past_due_pregnantprompt_message">Your due date has passed, whether to reset?</string>
+    <string name="not_set_pregnantprompt_message">Please set your expected date of confinement</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 输入限制，最大长度等 -->
+
+    <integer name="limit_feedback_lines">6</integer>
+    <integer name="limit_address_lines">6</integer>
+
+    <!-- 已经参照需求确认过的放下面 -->
+    <integer name="limit_phone">11</integer>
+    <integer name="limit_email">64</integer>
+    <integer name="limit_measure_readme">80</integer>
+    <integer name="limit_nickname">12</integer>
+    <integer name="limit_realname">12</integer>
+    <integer name="limit_group_description">70</integer>
+    <integer name="limit_account">64</integer>
+    <integer name="limit_address">100</integer>
+    <integer name="limit_email_description">200</integer>
+    <integer name="limit_id_card">18</integer>
+    <integer name="limit_checkcode">4</integer>
+    <integer name="limit_password">16</integer>
+    <integer name="limit_group_name">20</integer>
+    <integer name="limit_chat_content">400</integer>
+    <integer name="limit_chat_max_lines">4</integer>
+    <integer name="limit_remark">20</integer>
+    <integer name="limit_clock_tag">40</integer>
+
+</resources>

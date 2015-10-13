@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- indicator tab layer -->
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="corner_radius_zero">0dp</dimen>
+    <dimen name="tab_space">0dp</dimen>
+
+</resources>

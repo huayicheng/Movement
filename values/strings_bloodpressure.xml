@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="day_one">1天</string>
+    <string name="day_seven">7天</string>
+    <string name="day_forteen">14天</string>
+    <string name="day_thrity">30天</string>
+    <string name="normal">正常</string>
+    <string name="abnormal">异常</string>
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gender_setting_values">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="every_week_list">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="example">
+        <item>Normal cardiac curve</item>
+        <item>Tachycardia curve</item>
+        <item>bradycardia curve</item>
+        <item>Sine wave</item>
+        <item>Sleep  Curve</item>
+    </string-array>
+    <string-array name="tagfake">
+        <item>Group</item>
+        <item>Chat</item>
+    </string-array>
+    <string-array name="subscription">
+        <item>No</item>
+        <item>SMS</item>
+        <item>Mcloud</item>
+    </string-array>
+    <string-array name="viewtag">
+        <item>Delete</item>
+        <item>Edit</item>
+    </string-array>
+    <string-array name="illness_key_setting_values">
+        <item>diabetes mellitus</item>
+        <item>cardiovascular disease（coronary artery disease/myocardial infarction,etc.）</item>
+        <item>hyperlipidemia</item>
+        <item>cerebrovascular disease (stroke/ encephalic vertigo, etc.)</item>
+        <item>respiratory disease</item>
+        <item>hypertension</item>
+        <item>Cold</item>
+        <item>pneumonia</item>
+        <item>malignant tumor</item>
+        <item>Rheumatism</item>
+    </string-array>
+        <string-array name="chattag">
+        <item>Delete</item>
+    </string-array>
+</resources>

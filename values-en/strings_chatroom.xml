@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sc_age">Age: </string>
+    <string name="sc_age_unit"></string>
+    <string name="sc_gender">Gender：</string>
+</resources>

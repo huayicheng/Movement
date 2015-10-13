@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CleanAbleAttr">
+        <attr name="maxbytes" format="integer" />
+        <attr name="maxlinescontent" format="integer" />
+        <attr name="clickright" format="boolean" />
+        <attr name="autoComplete" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="switchDate">
+        <attr name="timeFormat" format="string" />
+        <attr name="textSize" format="dimension" />
+        <attr name="dateStep">
+            <enum name="year" value="0" />
+            <enum name="month" value="1" />
+            <enum name="day" value="2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="horicalBlock">
+        <attr name="singleTextSize" format="dimension" />
+        <attr name="singleWidth" format="dimension" />
+        <attr name="singleHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="adaptiveRadioButton">
+        <attr name="verticalMargin" format="dimension" />
+        <attr name="horizalMargin" format="dimension" />
+        <attr name="verticalPadding" format="dimension" />
+        <attr name="horizalPadding" format="dimension" />
+        <attr name="itemBackGround" format="reference" />
+        <attr name="textcolor" format="color" />
+        <attr name="textsize" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="adaptiveTextView">
+        <attr name="vertical_margin" format="dimension" />
+        <attr name="horizal_margin" format="dimension" />
+        <attr name="vertical_padding" format="dimension" />
+        <attr name="horizal_padding" format="dimension" />
+        <attr name="key_font_size" format="float" />
+        <attr name="value_font_size" format="float" />
+    </declare-styleable>
+ <declare-styleable name="timeShaft">
+        <attr name="shaft_radius" format="dimension" />
+    </declare-styleable>
+</resources>

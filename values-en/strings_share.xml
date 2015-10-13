@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="weibo_upload_content">Image Sharing</string>
+    <string name="wechat_client_inavailable">No Wechat available or Version unavailable</string>
+    <string name="wechat">Wechat</string>
+    <string name="wechatmoments">Moments</string>
+    <string name="shortmessage">SMS</string>
+    <string name="share_new_email">New E-mail</string>
+    <string name="share_email_send_success">Successfully</string>
+    <string name="share_email_data_missing">Failure,try again</string>
+    <string name="mail_receiver_separate">Multiple e-mail addresses with a comma (,) to separate</string>
+    <string name="from_cloud">From MCloud</string>
+    <string name="group_invite_msg">I am using a MCloud, invite you into the group!</string>
+    <string name="share_cloud_app">I am using a MCloud, share the health information to with you!</string>
+    <string name="share_cloud_app_down">Come to download MCloud easily to use</string>
+    <string name="group_invite_title">Invitation of MCloud into group</string>
+    <string name="share_month"></string>
+    <string name="share_recently"></string>
+    <string name="share_title">%s Sharing</string>
+    <string name="share_email_subject">MCloud %s shares</string>
+    <string name="share_email_foot_title">%1$s shares %2$s to you，from MCloud</string>
+    <string name="share_email_contenet">I am using a MCloud, share the health information to with you!</string>
+    <string name="share_sms_description">%1$s shares %2$s to you，from MCloud</string>
+    <string name="share_progress_hint">Generating Link</string>
+    
+    <!--单次分享 -->
+    <string name="share_bs_single_wx_description">My blood sugar: %s mmol/L</string>
+    <string name="share_single_email_subject">MCloud %s detail sharing</string>
+    <string name="share_single_email_foot_title">%1$s shares the detail of %2$s to you，from MCloud\n</string>
+    <string name="share_single_fm_email_foot_title">%1$s shares %2$s records to you，from MCloud\n</string>
+     <string name="share_single_sms_description">%1$s shares the detail of  %2$s to you，from MCloud</string>
+    <string name="share_boxy_single_wx_descriptions">My Oxygen Data: Oximetry %1$s，Heart Rate: %2$s bpm</string>
+    <string name="share_bp_single_wx_descriptions">My blood pressure data：SBP/DBP %1$s mmHg,Heart Rate: %2$s bpm</string>
+    <string name="share_et_single_wx_descriptions">My ear temperature: Ear Temperature %s ℃</string>
+    <string name="share_fh_single_wx_descriptions">My FHR data：\nAverage heart rate %s bpm,duration  </string>
+     <string name="share_fm_single_wx_descriptions">My FM data：\nAverage fetal movement %d times / hour, duration  </string>
+     
+     <!-- 设置界面中的心云分享 -->
+     <string name="share_setting_mcloud">MCloud Sharing</string>
+     <string name="share_setting_wx_dec">%s shares MCloud to you</string>
+     <string name="share_setting_email_content">>Come to download MCloud easily to use</string>
+     <string name="share_setting_sms_des">%1$s shares MCloud to you\n%2$s</string>
+    
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemePink" parent="android:Theme">
+        <!-- button style -->
+        
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="weibo_upload_content">分享图片</string>
+    <string name="wechat_client_inavailable">尚未安装微信或者版本太低</string>
+    <string name="wechat">微信</string>
+    <string name="wechatmoments">朋友圈</string>
+    <string name="shortmessage">短信</string>
+    <string name="share_new_email">新邮件</string>
+    <string name="share_email_send_success">发送成功</string>
+    <string name="share_email_data_missing">数据获取失败，请重试</string>
+    <string name="mail_receiver_separate">多个邮件地址用逗号(,)隔开</string>
+
+    <string name="from_cloud">来自心云健康</string>
+    <string name="group_invite_msg">我正在使用心云健康，邀请您入群!</string>
+    <string name="share_cloud_app">我正在使用心云健康，将健康信息与您分享!</string>
+    <string name="share_cloud_app_down">心云健康很好用,快来下载吧!</string>
+    <string name="group_invite_title">心云健康入群邀请</string>
+    <string name="share_month"></string>
+    <string name="share_recently"></string>
+    <string name="share_title">%s分享</string>
+    <string name="share_email_subject">心云健康%s分享</string>
+    <string name="share_email_foot_title">%1$s给您分享了%2$s，来自心云健康</string>
+    <string name="share_email_contenet">我正在使用心云健康，将健康信息与您分享！</string>
+    <string name="share_sms_description">%1$s给您分享了%2$s，来自心云健康</string>
+    <string name="share_progress_hint">正在生成链接</string>
+    
+    <!--单次分享 -->
+    <string name="share_bs_single_wx_description">我的血糖数据：血糖 %s mmol/L</string>
+    <string name="share_single_email_subject">心云健康%s详情分享</string>
+    <string name="share_single_email_foot_title">%1$s给您分享了%2$s详情，来自心云健康\n</string>
+    <string name="share_single_fm_email_foot_title">%1$s给您分享了%2$s记录，来自心云健康\n</string>
+     <string name="share_single_sms_description">%1$s给您分享了%2$s详情，来自心云健康</string>
+    <string name="share_boxy_single_wx_descriptions">我的血氧数据:血氧饱和度 %1$s，心率%2$s bpm</string> 
+    <string name="share_bp_single_wx_descriptions">我的血压数据：收缩压/舒张压%1$smmHg,心率%2$sbpm</string>
+    <string name="share_et_single_wx_descriptions">我的耳温数据:耳温%s℃</string>
+    <string name="share_fh_single_wx_descriptions">我的胎心数据：\n平均心率%s bpm,持续时间  </string>
+     <string name="share_fm_single_wx_descriptions">"我的胎动数据：\n平均胎动 %d次/小时,持续时间  "</string>
+     
+     <!-- 设置界面中的心云分享 -->
+     <string name="share_setting_mcloud">心云健康分享</string>
+     <string name="share_setting_wx_dec">%s给您分享了心云健康</string>
+     <string name="share_setting_email_content">心云健康很好用，快来下载吧！</string>
+     <string name="share_setting_sms_des">%1$s给您分享了心云健康\n%2$s</string>    
+    
+
+</resources>

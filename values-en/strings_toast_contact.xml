@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="CONTACT_CODE_001">Measurement data uploaded successfully!</string>
+    <string name="CONTACT_CODE_002">The doctor suggests to analyze anomaly after linking!</string>
+    <string name="CONTACT_CODE">Using contacts as a part through whole measuring</string>
+    <string name="CONTACT_CODE_003">Select 1 contacts at least: %s</string>
+    <string name="CONTACT_CODE_004">%s contacts are selected currently</string>
+    <string name="CONTACT_CODE_005">You have gained authorization successfully!</string>
+    <string name="CONTACT_CODE_006">Your application of authorization has been sent successfully!</string>
+    <string name="CONTACT_CODE_007">Authorization code you entered was not correct,please check carefully!</string>
+    <string name="CONTACT_CODE_008">The network is not available</string>
+    <string name="CONTACT_CODE_009">The mobile phone or email number you ertered was incorrect</string>
+    <string name="CONTACT_CODE_010">Can’t add unregistered mail number</string>
+    <string name="CONTACT_CODE_011">Email accounts can’t be added in the offline state</string>
+    <string name="CONTACT_CODE_012">You have added %s, please don’t repeat</string>
+    <string name="CONTACT_CODE_013">The add application has been sent</string>
+    <string name="CONTACT_CODE_014">Add successful</string>
+    <string name="CONTACT_CODE_015">The mail is not registered, unable to add</string>
+    <string name="CONTACT_CODE_016">You have added the mobile phone number, please don’t repeat</string>
+    <string name="CONTACT_CODE_017">Nickname can’t be empty. Please enter</string>
+    <string name="CONTACT_CODE_018">Add successfully in the offline state</string>
+    <string name="CONTACT_CODE_019">Please confirm that the second generation id card of the People’s Republic of China!</string>
+    <string name="CONTACT_CODE_020">Read failed,please re-enter the page to read</string>
+    <string name="CONTACT_CODE_021">The group entered has been repeated</string>
+    <string name="CONTACT_CODE_022">Please enter the group</string>
+    <string name="CONTACT_CODE_023">The group can only consist of Chinese characters,numbers and letters</string>
+    <string name="CONTACT_CODE_024">Group length is 16 characters, please enter again</string>
+    <string name="CONTACT_CODE_025">Please enter the name</string>
+    <string name="CONTACT_CODE_026">Name can only consist of Chinese characters,numbers and letters</string>
+    <string name="CONTACT_CODE_027">Words of name exceeds the limit, please enter again</string>
+    <string name="CONTACT_CODE_028">Please enter right mobile phone number</string>
+    <string name="CONTACT_CODE_029">Your friend requst has been sent , please wait for approval patiently</string>
+    <string name="CONTACT_CODE_030">Network anomaly, modify push category failed</string>
+    <string name="CONTACT_CODE_031">Network anomaly, modify particular concerns failed</string>
+    <string name="CONTACT_CODE_032">Network anomaly, modify permission of measuring for others failed</string>
+    <string name="CONTACT_CODE_033">Network anomaly, modify permission of viewing for others failed</string>
+    <string name="CONTACT_CODE_034">Network anomaly, shield chat messages failed</string>
+    <string name="CONTACT_CODE_035">Network anomaly, shield notice failed</string>
+    <string name="CONTACT_CODE_036">Network anomaly, delete contacts failed</string>
+    <string name="CONTACT_CODE_037">You have no contacts currently, please add your relatives first</string>
+    <string name="CONTACT_CODE_038">Bulk delete friends failed</string>
+    <string name="CONTACT_CODE_039">You have no contacts need to be synchronized currently</string>
+
+</resources>

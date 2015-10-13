@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="CONTACT_CODE_001">测量数据上传成功!</string>
+    <string name="CONTACT_CODE_002">医生建议链接获取后,解析异常!</string>
+    <string name="CONTACT_CODE">使用联系人作为贯穿整个测量中的一部分</string>
+    <string name="CONTACT_CODE_003">至少需要选中1位联系人：%s</string>
+    <string name="CONTACT_CODE_004">当前选中%s位联系人</string>
+    <string name="CONTACT_CODE_005">您已经成功获取授权!</string>
+    <string name="CONTACT_CODE_006">您的授权申请已经成功发出!</string>
+    <string name="CONTACT_CODE_007">您的授权码输入有误,请您仔细核对!</string>
+    <string name="CONTACT_CODE_008">当前网络不可用</string>
+    <string name="CONTACT_CODE_009">您输入的手机或邮箱号码错误</string>
+    <string name="CONTACT_CODE_010">不能添加未注册的邮箱号</string>
+    <string name="CONTACT_CODE_011">离线状态下,邮箱账号不能添加</string>
+    <string name="CONTACT_CODE_012">您已经添加了%s，请勿重复添加!</string>
+    <string name="CONTACT_CODE_013"> 添加申请已经发出</string>
+    <string name="CONTACT_CODE_014">添加成功</string>
+    <string name="CONTACT_CODE_015"> 该邮箱未注册,无法添加</string>
+    <string name="CONTACT_CODE_016">您已经添加了该手机号，请勿重复添加!</string>
+    <string name="CONTACT_CODE_017">昵称不能为空，请输入</string>
+    <string name="CONTACT_CODE_018">离线添加成功</string>
+    <string name="CONTACT_CODE_019">请确认中华人民共和国二代身份证！</string>
+    <string name="CONTACT_CODE_020">读取失败，请重新进入该页面读取！</string>
+    <string name="CONTACT_CODE_021">输入的分组已经重复</string>
+    <string name="CONTACT_CODE_022">请输入分组</string>
+    <string name="CONTACT_CODE_023">分组只能由汉字、数字及英文字母组成</string>
+    <string name="CONTACT_CODE_024">分组长度最长为16个字符,请重新输入</string>
+    <string name="CONTACT_CODE_025">请输入姓名</string>
+    <string name="CONTACT_CODE_026">姓名只能由汉字、数字及英文字母组成</string>
+    <string name="CONTACT_CODE_027">姓名字数超过限制，请重新输入</string>
+    <string name="CONTACT_CODE_028">请输入正确的手机号码</string>
+    <string name="CONTACT_CODE_029">您的好友申请已经发出，请耐心等候批准！</string>
+    <string name="CONTACT_CODE_030">网络异常，修改推送类别失败</string>
+    <string name="CONTACT_CODE_031">网络异常，修改特别关心失败</string>
+    <string name="CONTACT_CODE_032">网络异常，修改代测权限失败</string>
+    <string name="CONTACT_CODE_033">网络异常，修改代看权限失败</string>
+    <string name="CONTACT_CODE_034">网络异常，屏蔽聊天消息失败</string>
+    <string name="CONTACT_CODE_035">网络异常，屏蔽通知失败</string>
+    <string name="CONTACT_CODE_036">网络异常，删除联系人失败</string>
+    <string name="CONTACT_CODE_037">您当前还未存在联系人，请先添加您的亲友</string>
+    <string name="CONTACT_CODE_038">批量删除分组失败</string>
+    <string name="CONTACT_CODE_039">当前您无联系人需要同步</string>
+
+</resources>

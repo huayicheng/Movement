@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="two_tenth" format="float" type="dimen">0.2</item>
+    <item name="three_tenth" format="float" type="dimen">0.3</item>
+    <item name="four_tenth" format="float" type="dimen">0.4</item>
+    <item name="five_tenth" format="float" type="dimen">0.5</item>
+    <item name="six_tenth" format="float" type="dimen">0.6</item>
+    <item name="eight_tenth" format="float" type="dimen">0.8</item>
+    <item name="tenth_tenth" format="float" type="dimen">1.0</item>
+
+</resources>

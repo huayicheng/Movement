@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MODIFY_CODE_001">Clone failed, lead to modify note request has been cancelled</string>
+    <string name="MODIFY_CODE_002">Find contacts is local contacts：modify  the local cantacts note successfully</string>
+    <string name="MODIFY_CODE_003">ContactPersonController instance object is empty,lead to modify note request has been cancelled</string>
+
+</resources>

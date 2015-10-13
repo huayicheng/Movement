@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="day_one">1 day</string>
+    <string name="day_seven">7 days</string>
+    <string name="day_forteen">14 days</string>
+    <string name="day_thrity">30 days</string>
+    <string name="normal">Normal</string>
+    <string name="abnormal">Abnormal</string>
+
+</resources>
